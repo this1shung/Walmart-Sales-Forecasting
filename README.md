@@ -85,7 +85,7 @@
 ![image](https://github.com/this1shung/Walmart-Sales-Forecasting/assets/126255184/daec502f-ef5b-4521-83dd-26b05f49761a)
 ![image](https://github.com/this1shung/Walmart-Sales-Forecasting/assets/126255184/ccb0b10c-8468-4121-9e6c-a58438c1a8f3)
 
-Thank you for reading my project details if you have any idea to improve this project feel free to contact me, it will help me a lot, 
+Thank you for reading my project details if you have any idea to improve this project feel free to contact me, it will help me a lot. 
 
 Wishing you a great day!
 
